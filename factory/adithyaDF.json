@@ -1,0 +1,9 @@
+{
+	"name": "adithyaDF",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02b95085-5071-488b-ab0b-6d12b615bcaf",
+		"tenantId": "e968b1e1-0e3d-487e-b82c-cd2543c7d139"
+	}
+}
